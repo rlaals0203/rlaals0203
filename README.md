@@ -1,11 +1,7 @@
-<p align="center">
-<img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=rlaals0203&fontSize=85">
-</p>
-
 <div align=center>
 
 # <center>제 GitHub 프로필에 오신 것을 환영합니다!</center>
-<center> 안녕하세요 경기게임마이스터고등학교 1학년 김민입니다.</center>
+<center> 안녕하세요 저는 경기게임마이스터고등학교 1학년 김민입니다.</center>
 <br>
 
 </br>
@@ -74,5 +70,3 @@
 </div>
 
 
-
-<img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer">
