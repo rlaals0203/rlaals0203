@@ -3,8 +3,7 @@
 # <center>제 프로필에 오신 것을 환영합니다!</center>
 <center> 안녕하세요 저는 경기게임마이스터고등학교 1학년 김민입니다.</center>
 <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaals0203)](https://solved.ac/rlaals0203/)
-</br>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={rlaals0203})](https://solved.ac/{rlaals0203})
  
 ### <center>💻 사용하는 프로그램 💻</center>
 
