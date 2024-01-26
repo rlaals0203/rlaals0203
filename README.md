@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=rlaals0203's%20profile&reversal=true&section=header&animation=fadeIn&fontSize=75&stroke=000000&textBg=false&strokeWidth=5&descAlign=80&descAlignY=60&fontAlign=50&fontAlignY=35&descSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=rlaals0203's%20Profile&section=header&fontAlignY=40&fontSize=80)
 
 <div align=center>
 
