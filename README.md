@@ -1,12 +1,12 @@
 <div align=center>
 
-# <center>제 GitHub 프로필에 오신 것을 환영합니다!</center>
+# <center>제 프로필에 오신 것을 환영합니다!</center>
 <center> 안녕하세요 저는 경기게임마이스터고등학교 1학년 김민입니다.</center>
 <br>
 
 </br>
  
-### <center>🔧 사용 가능한 프로그램 🔧</center>
+### <center>💻 사용하는 프로그램 💻</center>
 
 </div>
 
@@ -22,7 +22,7 @@
 
 <div align=center>
 
-### <center>💬 사용 가능한 언어 💬</center>
+### <center>💬 사용하는 언어 💬</center>
 
 <p align="center">
 <img src = "https://img.shields.io/badge/C%23-BF00FF?style=for-the-badge&logo=Csharp&logoColor=white">
@@ -64,9 +64,7 @@
 </br>
 
 <div align=center>
-
-### <center>📞 **CONTACT** 📞</center>
-<center>📧 : scientistmin@gmail.com</center>
+ 
 </div>
 
 
