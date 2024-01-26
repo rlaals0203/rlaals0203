@@ -2,7 +2,7 @@
 
 <div align=center>
 
-# <center>제 프로필에 오신 것을 환영합니다!</center>
+# <center>제 프로필에 오신걸 환영합니다!</center>
 <center> 안녕하세요 저는 경기게임마이스터고등학교 1학년 김민입니다.</center>
 <br>
 
@@ -26,10 +26,6 @@
 <img src = "https://img.shields.io/badge/C%23-BF00FF?style=for-the-badge&logo=Csharp&logoColor=white">
 <img src = "https://img.shields.io/badge/Lua-0404B4?style=for-the-badge&logo=Lua&logoColor=white">
 </p>
-    <br>
-        </div>
-
-----------
 
 ### <center>📞 소셜미디어 링크 📞<center>
 <p align="center">
@@ -50,6 +46,20 @@
 <p align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=rlaals0203&show_icons=true&theme=tokyonight">
 </p>
+<br>
+
+----------
+
+### <center>📖 백준 📖
+
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaalas0203)](https://solved.ac/rlaalas0203/)
+
+<br>
+
+### 매일매일 조금씩 푸는중입니다!
+
 <br>
 
 ----------
