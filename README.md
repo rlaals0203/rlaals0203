@@ -10,16 +10,12 @@
  
 ### <center>💻 사용하는 프로그램 💻</center>
 
-</div>
-
 
 <p align="center">
 <img src = "https://img.shields.io/badge/Unity-FAFAFA?style=for-the-badge&logo=Unity&logoColor=black">
-<img src = "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 <img src = "https://img.shields.io/badge/VS-AC58FA.svg?style=for-the-badge&logo=VisualStudio&logoColor=white">
 <img src = "https://img.shields.io/badge/VSC-2E9AFE.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <img src = "https://img.shields.io/badge/Rblx_Studio-FAFAFA?style=for-the-badge&logo=RobloxStudio&logoColor=White">
-<img src = "https://img.shields.io/badge/scratch-FE9A2E.svg?style=for-the-badge&logo=scratch&logoColor=white">
 </p>  
 
 <div align=center>
@@ -37,17 +33,11 @@
 
 ### <center>📞 소셜미디어 링크 📞<center>
 <p align="center">
-<a href="https://github.com/rlaals0203">
-        <img src="https://img.shields.io/badge/
-        github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> 
+<a href="https://github.com/rlaals0203/j_sy31?igshid=Mzc0YWU1OWY="><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
     </a>
-    <a href="mailto:scientistmin@gmail.com">
-        <img src="https://img.shields.io/badge/
-        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+<a href="mailto:scientistmin@gmail.com/j_sy31?igshid=Mzc0YWU1OWY="><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
     </a>
-    <a href="https://www.instagram.com/rlaals0203">
-        <img src="https://img.shields.io/badge/
-        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+<a href="https://www.instagram.com/rlaals0203/j_sy31?igshid=Mzc0YWU1OWY="><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
     </a>
 
 <br>
